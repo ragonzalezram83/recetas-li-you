@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+{% include "_head.html" %}
+<title>Recetario de Li You</title>
+<meta name="description" content="Las recetas del cuaderno de Li You, para cocinar con el libro al lado.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="cover">
+    <div class="kicker">El cuaderno de recetas</div>
+    <h1>Recetario de Li You</h1>
+    <p class="hand">Sus recetas, tal como las escribió.</p>
+    <p class="small">Cada receta tiene la versión para cocinar paso a paso, las páginas originales del cuaderno y las fotos. Desde el libro, escanea el código de la receta.</p>
+  </header>
+  {% for ch in chapters %}{% if ch.recipes %}
+  <section class="chapter">
+    <h2>{{ ch.title }}</h2>
+    <div class="cards">
+      {% for r in ch.recipes %}
+      <a class="card" href="{{ r.slug }}/">
+        <img src="{{ r.hero }}" alt="" loading="lazy"{% if not r.hero_is_photo %} class="manuscript"{% endif %}>
+        <div><strong>{{ r.title }}</strong><span>{{ r.facts | join(" · ") }}</span></div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}{% endfor %}
+  <footer>
+    <span>Del cuaderno de Li You. Transcripción y fotos de la familia.</span>
+  </footer>
+</div>
+</body>
+</html>

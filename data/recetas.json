@@ -1,0 +1,704 @@
+[
+ {
+  "slug": "muslos-de-pollo",
+  "title": "Muslos de pollo guisados",
+  "chapter": "carnes",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 1
+   },
+   {
+    "src": "pdf",
+    "page": 2
+   }
+  ],
+  "photoFolder": null,
+  "transcriptionHeading": "A. Transcripción fiel (págs. 1–2)",
+  "transcription": [
+   "Muslos de Pollo guisados (para 4 personas)",
+   "(ingredientes)",
+   "1 Kg. de muslos, 1 cebolla de 280 gramos, un pimiento Rojo de 180 gr., un pimiento Verde de 180 gr., una Zanahoria tomate triturado 200 gr. 3 dientes de ajo grandes media pastilla de extarlus medio Vaso de agua",
+   "(Cocinar) | Salar los Muslos",
+   "poner una paellera pequeña O una cazuela con aceite picar la cebolla los pimientos los ajos y la Zanahoria dejarlo pochar un poco y agregar el tomate, dejarlo que se haga un poco mas y hechar los muslos y reogar con media cucharadita de pimenton, reogar un poco y agregar el agua. dejarlos cocer a fuego lento, mas o menos 1 hora segun sean de grandes que se consuma el agua"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, pág. 1)",
+    "text": "aceite 25 ml. mas o menos"
+   }
+  ],
+  "intro": "Muslos de pollo guisados, para 4 personas",
+  "ingredients": [
+   "1 kg de muslos de pollo",
+   "1 cebolla de 280 g",
+   "1 pimiento rojo de 180 g",
+   "1 pimiento verde de 180 g",
+   "1 zanahoria",
+   "200 g de tomate triturado",
+   "3 dientes de ajo grandes",
+   "Media pastilla de Starlux",
+   "Medio vaso de agua",
+   "Aceite, 25 ml más o menos",
+   "Media cucharadita de pimentón",
+   "Sal"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Salar los muslos.",
+     "Poner una paellera pequeña o una cazuela con aceite.",
+     "Picar la cebolla, los pimientos, los ajos y la zanahoria, y dejarlo pochar un poco.",
+     "Agregar el tomate y dejarlo que se haga un poco más.",
+     "Echar los muslos y rehogar con media cucharadita de pimentón. Rehogar un poco y agregar el agua.",
+     "Dejarlos cocer a fuego lento, más o menos 1 hora según sean de grandes, hasta que se consuma el agua."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "El pimentón y la sal salen en los pasos pero no en la lista de ingredientes. No dice si el pimentón es dulce o picante.",
+   "La media pastilla de Starlux está en la lista, pero los pasos no dicen cuándo se echa: [POR CONFIRMAR].",
+   "«hasta que» en el paso 6 lo he añadido yo para que se entienda; el original dice «según sean de grandes que se consuma el agua»."
+  ],
+  "source": "PDF págs. 1–2. Sin fotos en la carpeta."
+ },
+ {
+  "slug": "costillas",
+  "title": "Costillas adobadas con patatas",
+  "chapter": "carnes",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 3
+   },
+   {
+    "src": "pdf",
+    "page": 4
+   }
+  ],
+  "photoFolder": "costillas con patatas",
+  "transcriptionHeading": "A. Transcripción fiel (págs. 3–4)",
+  "transcription": [
+   "Costillas adobadas con patatas (4 personas)",
+   "(ingredientes)",
+   "500 gr. [la primera cifra está escrita encima de otra; Raul confirma 500] de costillas de cerdo adobadas, 2 dientes de ajo un poco de oregano, 400 Ml. de agua 1 Kg. de patatas",
+   "(Cocinar) (olla expres)",
+   "poner la olla con un poco de aceite, picar los ajos a reogar y seguido las costillas, reogar bien y hechar el agua, cerrar la olla y cocer 30 minutos, despues hechar las patatas y dejar cocer con un poco de oregano 30 minutos, mas o menos dejar reposar, y servir"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, pág. 3)",
+    "text": "aceite al gusto / 20 [POR CONFIRMAR: «ml»] mas o menos"
+   }
+  ],
+  "intro": "Costillas adobadas con patatas, para 4 personas. En olla exprés.",
+  "ingredients": [
+   "500 g de costillas de cerdo adobadas",
+   "2 dientes de ajo",
+   "Un poco de orégano",
+   "400 ml de agua",
+   "1 kg de patatas",
+   "Aceite al gusto, 20 [POR CONFIRMAR: ml] más o menos"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Poner la olla con un poco de aceite. Picar los ajos y rehogar, y seguido las costillas.",
+     "Rehogar bien y echar el agua.",
+     "Cerrar la olla y cocer 30 minutos.",
+     "Después echar las patatas y dejar cocer con un poco de orégano 30 minutos, más o menos.",
+     "Dejar reposar y servir."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "Cantidad de costillas: 500 g, confirmado por Raul (la primera cifra estaba corregida encima).",
+   "Paso 4: no dice si las patatas se cuecen con la olla cerrada otra vez o destapada, ni cómo se cortan.",
+   "No menciona la sal (puede que el adobo ya la lleve; no lo añado).",
+   "«mas o menos» puede ir con los 30 minutos o con el reposo; la coma está antes, y lo he unido a los 30 minutos."
+  ],
+  "source": "PDF págs. 3–4. Fotos en la carpeta «costillas con patatas»."
+ },
+ {
+  "slug": "patatas-importancia",
+  "title": "Patatas a la importancia",
+  "chapter": "verdura",
+  "pages": [
+   {
+    "src": "imp",
+    "page": 1
+   },
+   {
+    "src": "pdf",
+    "page": 15
+   }
+  ],
+  "photoFolder": "patatas Importancia",
+  "transcriptionHeading": "A. Transcripción fiel («Importancia.pdf» pág. 1 + PDF principal pág. 15)",
+  "transcription": [
+   "patatas a la importancia (3 per.)",
+   "(ingredientes)",
+   "2 patatas grandes, 500 gr. medio vaso de harina, 1 huevo o 2. aceite 100 ml, un diente de ajo unas Ramas de perejil, cuarto de una cebolla y sal",
+   "(cocinar)",
+   "pelar la patata, cortar en redondo un poco gorda, añadir la sal pasarlas por la harina batir el huevo, poner la sarten con el aceite cuando este caliente pasar la patatas por el huevo y freir que se dore y sacarlos para una cazuela bien colocados; machacar el ajo y el perejil, en la aceite de freirlas poner la cebolla picada y refreirla luego agregarle una cucharadita pequeña de harina que se refria, agregar el ajo y perejil con 600, o 700 de agua y una hoja de laurel y una pastilla de extarlus, cuando empiece a hervir se hecha para la cazuela, y que cuezan, por lo menos media hora"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, 2.ª hoja)",
+    "text": "Pincharlas con un tenedor para ver si estan cocidos"
+   }
+  ],
+  "intro": "Patatas a la importancia, para 3 personas",
+  "ingredients": [
+   "2 patatas grandes, 500 g",
+   "Medio vaso de harina, y una cucharadita pequeña más para la salsa",
+   "1 o 2 huevos",
+   "100 ml de aceite",
+   "1 diente de ajo",
+   "Unas ramas de perejil",
+   "Un cuarto de cebolla",
+   "650 ml de agua (ella escribió «600, o 700»; Raul fija 650 ml)",
+   "1 hoja de laurel",
+   "1 pastilla de Starlux",
+   "Sal"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Pelar las patatas y cortarlas en redondo, un poco gordas. Añadir la sal.",
+     "Pasarlas por la harina. Batir el huevo.",
+     "Poner la sartén con el aceite. Cuando esté caliente, pasar las patatas por el huevo y freírlas hasta que se doren.",
+     "Sacarlas a una cazuela, bien colocadas.",
+     "Machacar el ajo y el perejil.",
+     "En el aceite de freírlas, poner la cebolla picada y refreírla. Luego agregarle una cucharadita pequeña de harina y que se refría.",
+     "Agregar el ajo y el perejil con 650 ml de agua, una hoja de laurel y una pastilla de Starlux.",
+     "Cuando empiece a hervir, se echa a la cazuela y que cuezan por lo menos media hora."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [
+   "Pincharlas con un tenedor para ver si están cocidas (nota al margen; lectura confirmada por Raul)."
+  ],
+  "warnings": [
+   "El agua y el laurel no están en la lista de ingredientes; solo aparecen en los pasos. La unidad del agua no está escrita; Raul fija 650 ml.",
+   "«hasta que se doren» en el paso 3 lo he puesto yo; el original dice «freir que se dore»."
+  ],
+  "source": "«Importancia.pdf» pág. 1 y PDF principal pág. 15. Fotos en la carpeta «patatas Importancia»."
+ },
+ {
+  "slug": "albondigas",
+  "title": "Albóndigas en salsa",
+  "chapter": "carnes",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 5
+   },
+   {
+    "src": "pdf",
+    "page": 6
+   }
+  ],
+  "photoFolder": "albondigas",
+  "transcriptionHeading": "A. Transcripción fiel (págs. 5–6)",
+  "transcription": [
+   "(Albondigas) en Salsa para 5 personas",
+   "(ingredientes)",
+   "600 gr. de carne picada, 2 huevos, perejil 3 gr. ajo 2, o 3 dientes, unos 4 gr. pan rayado 30 gr. leche 76 ml., sal (al gusto) 1 Pastilla de Starlux",
+   "(preparacion)",
+   "en un bol echar los huevos, picar el perejil y los ajos menudito, batir un poco y agregar la carne picada remover bien poner sal, agregar el pan rayado, y la leche, amasarlo con las manos bien limpias → dejarlo que se macere para el dia siguiente en el frigo, taparlo.",
+   "(cocinar)",
+   "hacer bolitas y meterlas en un bol con harina para freir, poner la sarten con unos 65 ml. de aceite freir y sacarlas para una cazuela, en la misma aceite, picar un poco de cebolla (al gusto) refreir con una cucharadita pequeña de arina; machacar en el mortero 2 dientes de ajo y perejil, y le poneis 600 ml. de agua y laurel, y a hervir (y Starlux) 1/2"
+  ],
+  "margin": [
+   {
+    "label": "Añadido encima de «(al gusto)»",
+    "text": "media"
+   },
+   {
+    "label": "Nota al margen (vertical, pág. 6)",
+    "text": "(colar el aceite) 65 ml"
+   }
+  ],
+  "intro": "Albóndigas en salsa, para 5 personas",
+  "ingredients": [
+   "600 g de carne picada",
+   "2 huevos",
+   "3 g de perejil, y un poco más para la salsa",
+   "2 o 3 dientes de ajo (unos 4 g), y 2 dientes más para la salsa",
+   "30 g de pan rallado",
+   "76 ml de leche",
+   "Sal al gusto",
+   "Media pastilla de Starlux (caldo de carne), en el agua de la salsa",
+   "Harina para rebozar, y una cucharadita pequeña para la salsa",
+   "Unos 65 ml de aceite",
+   "Media cebolla (o un poco, al gusto)",
+   "600 ml de agua",
+   "Laurel"
+  ],
+  "stepGroups": [
+   {
+    "label": "La víspera",
+    "steps": [
+     "En un bol, echar los huevos. Picar el perejil y los ajos menudito, batir un poco y agregar la carne picada.",
+     "Remover bien, poner sal, agregar el pan rallado y la leche, y amasarlo con las manos bien limpias.",
+     "Taparlo y dejarlo que se macere en el frigo para el día siguiente."
+    ]
+   },
+   {
+    "label": "Al día siguiente",
+    "steps": [
+     "Hacer bolitas y meterlas en un bol con harina para freír.",
+     "Poner la sartén con unos 65 ml de aceite, freírlas y sacarlas a una cazuela.",
+     "En el mismo aceite (colado), picar un poco de cebolla, media o al gusto, y refreírla con una cucharadita pequeña de harina.",
+     "Machacar en el mortero 2 dientes de ajo y perejil, ponerle 600 ml de agua, laurel y media pastilla de Starlux, y a hervir."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [
+   "«Colar el aceite» antes de hacer la salsa (nota al margen)."
+  ],
+  "warnings": [
+   "La receta termina en «a hervir (y Starlux) 1/2». No dice cuándo se juntan las albóndigas con la salsa ni cuánto cuecen. [POR CONFIRMAR: ¿hay otra hoja?]",
+   "«1/2» es media pastilla de Starlux, que va en el agua de la salsa (Raul). La lista de ingredientes decía 1 pastilla.",
+   "Leche: leo «76 ml»; podría ser 75. [POR CONFIRMAR]",
+   "En «ajo 2, o 3» hay una cifra escrita encima de otra.",
+   "Aceite, harina, cebolla, agua y laurel no están en la lista; los he sacado de los pasos."
+  ],
+  "source": "PDF págs. 5–6. Fotos en la carpeta «albondigas»."
+ },
+ {
+  "slug": "macarrones",
+  "title": "Macarrones con chorizo y carne picada",
+  "chapter": "verdura",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 7
+   },
+   {
+    "src": "pdf",
+    "page": 8
+   }
+  ],
+  "photoFolder": null,
+  "transcriptionHeading": "A. Transcripción fiel (págs. 7–8)",
+  "transcription": [
+   "Macarrones con chorizo y carne picada (4 perso.)",
+   "carne picada 300 gr. cebolla [POR CONFIRMAR: 90; la primera cifra está escrita encima de otra] gr. ajos 1 aceite unos 25 ml. tomate un tarro de 300 gr. mas, o menos, chorizo 90 gr., taquitos de jamón 70 gr.",
+   "(cocinar)",
+   "poner la sarten con la aceite picar la cebolla y el ajo, dejar que se poche, y agregar la carne picada reogar bien y agregar el tomate, y dejarlo en la sarten. poner una casuela con un 1l de agua y una pastilla de extarlus cuando este cociendo añadir los macarrones 225 gr. (cocer al gusto) remover para que no se pegen, despues de cocidos, ponerlos en un escurridor y pasarlos por agua fria y ponerlos en la cazuela, agregar el sofrito, y remover; en otra Sarten, con un poquito de aceite poner, las rajitas de chorizo y los taquitos de jamón que se refrian un poco, y agregar a la cazuela y remoberlo todo bien (calentar y servir)"
+  ],
+  "margin": [],
+  "intro": "Macarrones con chorizo y carne picada, para 4 personas",
+  "ingredients": [
+   "225 g de macarrones",
+   "300 g de carne picada",
+   "[POR CONFIRMAR: 90] g de cebolla",
+   "1 ajo",
+   "Unos 25 ml de aceite, y un poquito más para el chorizo",
+   "Un tarro de tomate de 300 g, más o menos",
+   "90 g de chorizo",
+   "70 g de taquitos de jamón",
+   "1 l de agua",
+   "1 pastilla de Starlux"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Poner la sartén con el aceite. Picar la cebolla y el ajo y dejar que se poche.",
+     "Agregar la carne picada y rehogar bien. Agregar el tomate y dejarlo en la sartén.",
+     "Poner una cazuela con 1 l de agua y una pastilla de Starlux. Cuando esté cociendo, añadir los macarrones (cocer al gusto) y remover para que no se peguen.",
+     "Después de cocidos, ponerlos en un escurridor, pasarlos por agua fría y ponerlos en la cazuela. Agregar el sofrito y remover.",
+     "En otra sartén, con un poquito de aceite, poner las rajitas de chorizo y los taquitos de jamón, que se refrían un poco.",
+     "Agregarlo a la cazuela y removerlo todo bien. Calentar y servir."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "La cebolla tiene la primera cifra corregida; leo 90 g.",
+   "Los macarrones (225 g), el agua y el Starlux salen en los pasos, no en la lista.",
+   "No menciona la sal."
+  ],
+  "source": "PDF págs. 7–8. Sin fotos en la carpeta."
+ },
+ {
+  "slug": "cocido",
+  "title": "Cocido casero",
+  "chapter": "cocido",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 9
+   },
+   {
+    "src": "pdf",
+    "page": 10
+   }
+  ],
+  "photoFolder": "sopa de cocido",
+  "transcriptionHeading": "A. Transcripción fiel (págs. 9–10)",
+  "transcription": [
+   "Cocido Casero (6 per.)",
+   "300 gr. de garbanzos 300 gr. de punta de jamón 400 gr. de carne de morcillo 1 hueso de ternera que tenga nerbio, 1 puerro, 1 Zanahoria, 150 gr. de tocino 1 chorizo de 35 gr. Sal 10, o 15 gr. (al gusto)",
+   "poner una olla expres con agua, añadir todos los ingredientes, de agua llenarla asta donde pida la olla, (la mia es de 6 litros y medio) Tiempo de coción 30 mt apagar y dejar que siga cociendo, hasta que bajen las rayas, luego habrir la olla, llenar tarros de caldo, los que salgan y poner un poco en una cazuela para la sopa, colocar todos los ingredientes en una fuente, y en otra los garbanzos para servir y comer",
+   "(tiempo de cocción depende de la olla) la mia es super rapida, cuando suben las 3 rayas la dejo 30 m. y la apago"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, pág. 9)",
+    "text": "poner a remojo los garbanzos por la noche, con sal y agua"
+   }
+  ],
+  "intro": "Cocido casero, para 6 personas. En olla exprés.",
+  "ingredients": [
+   "300 g de garbanzos",
+   "300 g de punta de jamón",
+   "400 g de carne de morcillo",
+   "1 hueso de ternera que tenga nervio",
+   "1 puerro",
+   "1 zanahoria",
+   "150 g de tocino",
+   "1 chorizo de 35 g",
+   "Sal, 10 o 15 g (al gusto)",
+   "Agua, hasta donde pida la olla"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "La noche antes, poner a remojo los garbanzos con sal y agua.",
+     "Poner una olla exprés con agua y añadir todos los ingredientes. De agua, llenarla hasta donde pida la olla.",
+     "Tiempo de cocción: 30 minutos. Apagar y dejar que siga cociendo hasta que bajen las rayas.",
+     "Luego abrir la olla. Llenar tarros de caldo, los que salgan, y poner un poco en una cazuela para la sopa.",
+     "Colocar todos los ingredientes en una fuente, y en otra los garbanzos, para servir y comer."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [
+   "«La mía es de 6 litros y medio.»",
+   "«El tiempo de cocción depende de la olla. La mía es súper rápida: cuando suben las 3 rayas la dejo 30 minutos y la apago.»"
+  ],
+  "warnings": [
+   "La sopa solo se menciona («un poco en una cazuela para la sopa»); no hay receta de la sopa en el manuscrito. La carpeta «sopa de cocido» tiene fotos.",
+   "Lo que sobra del cocido es la base de las Croquetas de cocido."
+  ],
+  "source": "PDF págs. 9–10. Fotos en la carpeta «sopa de cocido»."
+ },
+ {
+  "slug": "conejo",
+  "title": "Conejo al ajillo",
+  "chapter": "carnes",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 11
+   },
+   {
+    "src": "pdf",
+    "page": 12
+   }
+  ],
+  "photoFolder": null,
+  "transcriptionHeading": "A. Transcripción fiel (págs. 11–12)",
+  "transcription": [
+   "Conejo al ajillo (3 per.)",
+   "1 conejo de 1 kilo y 200 g. 75 ml. de aceite, 30 gr. de ajo, 6 gr. de perejil, 55 ml. de coñac, 300 ml de agua, harina, y Sal",
+   "(modo de hacerlo)",
+   "Salar el conejo troceado, pasarlo por la harina, poner una Sarten con la aceite cuando este caliente Refreir el conejo para que se dore, una vez dorado, sacarlo para una fuente. poner una paellera pequeña, poner la aceite de freirlo, colarla para que quede limpia, calentar y hechar el conejo, reogar, añadir el coñac y reogar, seguido agregar el ajo y perejil machacado, O bien picado con el agua, remobelo y ponerlo a fuego fuerte a los 10 mtos ponerlo a fuego lento, y que se haga, poner un poco de Sal (al gusto) tiempo de cocción (3 cuartos de hora)"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, pág. 12)",
+    "text": "agregar mas agua si lo necesita"
+   }
+  ],
+  "intro": "Conejo al ajillo, para 3 personas",
+  "ingredients": [
+   "1 conejo de 1 kg y 200 g, troceado",
+   "75 ml de aceite",
+   "30 g de ajo",
+   "6 g de perejil",
+   "55 ml de coñac",
+   "300 ml de agua",
+   "Harina",
+   "Sal"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Salar el conejo troceado y pasarlo por la harina.",
+     "Poner una sartén con el aceite. Cuando esté caliente, refreír el conejo para que se dore. Una vez dorado, sacarlo a una fuente.",
+     "Poner una paellera pequeña con el aceite de freírlo, colado para que quede limpio.",
+     "Calentar, echar el conejo y rehogar. Añadir el coñac y rehogar.",
+     "Seguido, agregar el ajo y el perejil, machacados o bien picados, con el agua.",
+     "Removerlo y ponerlo a fuego fuerte. A los 10 minutos, ponerlo a fuego lento y que se haga.",
+     "Poner un poco de sal, al gusto."
+    ]
+   }
+  ],
+  "afterSteps": [
+   "Tiempo de cocción: tres cuartos de hora."
+  ],
+  "notes": [
+   "«Agregar más agua si lo necesita.»"
+  ],
+  "warnings": [
+   "La sal sale dos veces: al principio (salar el conejo) y al final (al gusto). Lo dejo como está.",
+   "En «1 kilo» la K está escrita encima de otra letra; la lectura es clara."
+  ],
+  "source": "PDF págs. 11–12. Sin fotos en la carpeta."
+ },
+ {
+  "slug": "croquetas",
+  "title": "Croquetas de cocido",
+  "chapter": "cocido",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 13
+   },
+   {
+    "src": "pdf",
+    "page": 14
+   }
+  ],
+  "photoFolder": "Croquetas",
+  "transcriptionHeading": "A. Transcripción fiel (págs. 13–14)",
+  "transcription": [
+   "Masa de croquetas de cocido",
+   "picar bien picadito todo lo que sobre del cocido, osea, la carne, el jamón, el chorizo, y el tocino, bien escogido, que pesara unos 250 gr. poner la sarten con 90 de aceite, picar 110 de cebolla bien picadita y reogar agregar 187 de harina y reogar bien, separarla que se enfrie cuando este fria agregar 1 litro y medio de leche y remober bien para que no se formen grumos, poner al fuego y seguir remobiendo hasta que haga [POR CONFIRMAR: «clocho»] osea que empiece a hervir, luego agregar el picadillo y seguir remobiendo hasta que este bien ligado, ponerlo en una fuente y taparlo con papel trasparente se deja enfriar, y luego para el frigo, al dia siguiente se hacen",
+   "(modo de hacerlas)",
+   "coger un poco de masa con una cuchara o tenedor, enrrollarlas con la mano,"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, pág. 14)",
+    "text": "pasarlos por pan rayado, un poquito, cuando los tengais todos hechos los pasais por huevo batido 2, o 3 huevos y otra vez por pan rayado, y las colocais en bandejas / freir con abundante aceite"
+   }
+  ],
+  "intro": "Croquetas de cocido",
+  "ingredients": [
+   "Unos 250 g de lo que sobre del cocido: la carne, el jamón, el chorizo y el tocino, bien escogido",
+   "90 ml de aceite",
+   "110 g de cebolla",
+   "187 g de harina",
+   "1 litro y medio de leche",
+   "2 o 3 huevos",
+   "Pan rallado",
+   "Aceite abundante para freír"
+  ],
+  "stepGroups": [
+   {
+    "label": "La masa",
+    "steps": [
+     "Picar bien picadito todo lo que sobre del cocido: la carne, el jamón, el chorizo y el tocino, bien escogido, que pese unos 250 g.",
+     "Poner la sartén con 90 ml de aceite. Picar 110 g de cebolla bien picadita y rehogar.",
+     "Agregar 187 g de harina y rehogar bien. Apartarla y que se enfríe.",
+     "Cuando esté fría, agregar 1 litro y medio de leche y remover bien para que no se formen grumos.",
+     "Poner al fuego y seguir removiendo hasta que haga «clocho», o sea, que empiece a hervir.",
+     "Luego agregar el picadillo y seguir removiendo hasta que esté bien ligado.",
+     "Ponerlo en una fuente y taparlo con papel transparente. Se deja enfriar y luego al frigo. Al día siguiente se hacen."
+    ]
+   },
+   {
+    "label": "Modo de hacerlas",
+    "steps": [
+     "Coger un poco de masa con una cuchara o un tenedor y enrollarlas con la mano.",
+     "Pasarlas por pan rallado, un poquito.",
+     "Cuando las tengáis todas hechas, las pasáis por huevo batido (2 o 3 huevos) y otra vez por pan rallado, y las colocáis en bandejas.",
+     "Freír con abundante aceite."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "En el cuaderno, «90», «110» y «187» no llevan unidad. Raul confirma: 90 ml de aceite, 110 g de cebolla y 187 g de harina.",
+   "«hasta que haga clocho»: la palabra se lee así, y ella misma la explica («o sea que empiece a hervir»). ¿Es una expresión de casa?",
+   "No dice para cuántas personas ni cuántas croquetas salen.",
+   "Los pasos 9 a 11 están en la nota del margen; los he puesto en orden después del paso 8."
+  ],
+  "source": "PDF págs. 13–14. Fotos en la carpeta «Croquetas»."
+ },
+ {
+  "slug": "huevos-rellenos",
+  "title": "Huevos rellenos",
+  "chapter": "verdura",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 16
+   },
+   {
+    "src": "pdf",
+    "page": 17
+   }
+  ],
+  "photoFolder": "Huevos rellenos",
+  "transcriptionHeading": "A. Transcripción fiel (págs. 16–17)",
+  "transcription": [
+   "Huevos rellenos (3 p.)",
+   "5 huevos, una lata de bonito, ajo perejil y tomate frito",
+   "(cocinar)",
+   "cocer los huevos, pelarlos y cortarlos a la mitad poner en un plato las yemas y la lata de bonito con el tomate frito, (medio vaso) (mas o menos) remover para unirlo todo, luego rellenar los claros y colocar en una cazuela, machacar el ajo y perejil, agregar medio vasito de agua y un poco de tomate, verterlo en el plato de las sobras de rellenar y echarlo para la cazuela por encima de los huevos para que de un herbor y calentarlos, (y servir)"
+  ],
+  "margin": [],
+  "intro": "Huevos rellenos, para 3 personas",
+  "ingredients": [
+   "5 huevos",
+   "1 lata de bonito",
+   "Tomate frito: medio vaso, más o menos, y un poco más para la salsa",
+   "Ajo",
+   "Perejil",
+   "Medio vasito de agua"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Cocer los huevos, pelarlos y cortarlos por la mitad.",
+     "Poner en un plato las yemas y la lata de bonito con el tomate frito (medio vaso, más o menos). Remover para unirlo todo.",
+     "Rellenar las claras y colocarlas en una cazuela.",
+     "Machacar el ajo y el perejil, y agregar medio vasito de agua y un poco de tomate.",
+     "Verterlo en el plato de las sobras de rellenar y echarlo a la cazuela por encima de los huevos, para que dé un hervor y se calienten.",
+     "Y servir."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "No dice cuánto ajo ni cuánto perejil.",
+   "«rellenar los claros»: en la versión editada lo he puesto como «las claras»."
+  ],
+  "source": "PDF págs. 16–17. Fotos en la carpeta «Huevos rellenos»."
+ },
+ {
+  "slug": "calamares",
+  "title": "Calamares en su tinta",
+  "chapter": "verdura",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 18
+   },
+   {
+    "src": "pdf",
+    "page": 19
+   }
+  ],
+  "photoFolder": "Calamares en su tinta",
+  "transcriptionHeading": "A. Transcripción fiel (págs. 18–19)",
+  "transcription": [
+   "Calamares en su tinta (2 personas)",
+   "kilo y medio de calamares una hoja de laurel aceite 43, o 45 ml. la 4º parte de una cebolla una cucharada de harina la tinta del calamar",
+   "(modo de hacerlo)",
+   "labar y limpiar bien los calamares, trocearlos, no muy pequeños ponerlos en una cazuela [palabra tachada] con agua [POR CONFIRMAR: 250; la cifra del medio está escrita encima de otra] ml, ponerlos a cocer, cuando esten cocidos poner una sarten, con la aceite picar la cebolla menudita cuando este pochada añadir el harina para que se refrie, machacar la tinta en el mortero y con el agua de cocerlos echarla en el mortero y luego en la sarten, darle bueltas para hacer la salsa, despues agregar los Calamares a la salsa y remover que cuezan un poco, unos 5 mtos"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (pág. 18, junto a «cocer»)",
+    "text": "laurel"
+   }
+  ],
+  "intro": "Calamares en su tinta, para 4 personas",
+  "ingredients": [
+   "Kilo y medio de calamares",
+   "1 hoja de laurel",
+   "43 o 45 ml de aceite",
+   "La cuarta parte de una cebolla",
+   "1 cucharada de harina",
+   "La tinta del calamar",
+   "[POR CONFIRMAR: 250] ml de agua"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Lavar y limpiar bien los calamares y trocearlos, no muy pequeños.",
+     "Ponerlos en una cazuela con el agua y el laurel, y ponerlos a cocer.",
+     "Cuando estén cocidos, poner una sartén con el aceite y picar la cebolla menudita.",
+     "Cuando esté pochada, añadir la harina para que se refría.",
+     "Machacar la tinta en el mortero. Con el agua de cocerlos, echarla en el mortero y luego en la sartén. Darle vueltas para hacer la salsa.",
+     "Después, agregar los calamares a la salsa, remover y que cuezan un poco, unos 5 minutos."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "El cuaderno dice «2 personas», pero según Raul el kilo y medio da más bien para 4. La versión editada pone 4.",
+   "El agua tiene una cifra corregida; leo 250 ml.",
+   "No menciona la sal."
+  ],
+  "source": "PDF págs. 18–19. Fotos en la carpeta «Calamares en su tinta»."
+ },
+ {
+  "slug": "arroz-con-leche",
+  "title": "Arroz con leche",
+  "chapter": "postres",
+  "pages": [
+   {
+    "src": "pdf",
+    "page": 20
+   }
+  ],
+  "photoFolder": "Arroz con leche",
+  "transcriptionHeading": "A. Transcripción fiel (pág. 20)",
+  "transcription": [
+   "Arroz con leche",
+   "1 litro de leche, 40, o 50 g. de azucar, 45 gr. de naranja con cascara, 130 gr. de arroz, y canela",
+   "(Cocinar)",
+   "poner a hervir la la leche, agregar el azucar y la naranja cuando empiece a hervir agregar el arroz, cuando este cocida esprimir bien la naranja achuchando con un tenedor, y repartirlo en 4 copas agregar la canela por encima, (al gusto)"
+  ],
+  "margin": [
+   {
+    "label": "Nota al margen (vertical, pág. 20)",
+    "text": "(dejarlo enfriar, y luego al frigo)"
+   }
+  ],
+  "intro": "Arroz con leche, en 4 copas",
+  "ingredients": [
+   "1 litro de leche",
+   "40 o 50 g de azúcar",
+   "45 g de naranja con cáscara",
+   "130 g de arroz",
+   "Canela"
+  ],
+  "stepGroups": [
+   {
+    "label": "",
+    "steps": [
+     "Poner a hervir la leche. Agregar el azúcar y la naranja.",
+     "Cuando empiece a hervir, agregar el arroz.",
+     "Cuando esté cocido, exprimir bien la naranja achuchando con un tenedor.",
+     "Repartirlo en 4 copas.",
+     "Dejarlo enfriar y luego al frigo.",
+     "Agregar la canela por encima, al gusto."
+    ]
+   }
+  ],
+  "afterSteps": [],
+  "notes": [],
+  "warnings": [
+   "No dice cuánto tiempo cuece el arroz.",
+   "La nota del margen no dice si se enfría antes o después de poner la canela; la he puesto antes."
+  ],
+  "source": "PDF pág. 20. Fotos en la carpeta «Arroz con leche»."
+ }
+]

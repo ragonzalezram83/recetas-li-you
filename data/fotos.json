@@ -1,0 +1,142 @@
+{
+ "chapters": [
+  [
+   "cocido",
+   "Cocido y lo que sale de él"
+  ],
+  [
+   "carnes",
+   "Carnes y guisos"
+  ],
+  [
+   "verdura",
+   "Pescado, huevos, pasta y verdura"
+  ],
+  [
+   "postres",
+   "Postres"
+  ]
+ ],
+ "photos": {
+  "costillas": {
+   "hero": 1,
+   "withPeople": [],
+   "original": [
+    "PXL_20260923_105815764.MP.jpg",
+    "PXL_20260923_114349364.MP.jpg",
+    "PXL_20260923_123023200.MP.jpg"
+   ]
+  },
+  "patatas-importancia": {
+   "hero": 12,
+   "withPeople": [
+    13
+   ],
+   "original": [
+    "IMG20261014105141.jpg",
+    "IMG20261014105214.jpg",
+    "IMG20261014105236.jpg",
+    "IMG20261014105249.jpg",
+    "IMG20261014111057.jpg",
+    "IMG20261014111109.jpg",
+    "IMG20261014111232.jpg",
+    "IMG20261014111241.jpg",
+    "IMG20261014113133.jpg",
+    "IMG20261014121328.jpg",
+    "IMG20261014121337.jpg",
+    "IMG20261014132003.jpg",
+    "PXL_20261014_114505658.MP.jpg"
+   ]
+  },
+  "albondigas": {
+   "hero": 14,
+   "withPeople": [
+    1,
+    16,
+    17
+   ],
+   "original": [
+    "PXL_20261014_114958262.jpg",
+    "IMG20261020113742.jpg",
+    "IMG20261020113755.jpg",
+    "IMG20261020114453.jpg",
+    "IMG20261020114636.jpg",
+    "IMG20261020114641.jpg",
+    "IMG20261020114812.jpg",
+    "IMG20261020114821.jpg",
+    "IMG20261020115336.jpg",
+    "IMG20261020115339.jpg",
+    "IMG20261020115350.jpg",
+    "IMG20261021122228.jpg",
+    "IMG20261021122233.jpg",
+    "IMG20261021122840.jpg",
+    "PXL_20261021_115906892.MP.jpg",
+    "PXL_20261021_122141017.MP.jpg",
+    "PXL_20261021_122146492.jpg"
+   ]
+  },
+  "cocido": {
+   "hero": 1,
+   "withPeople": [],
+   "original": [
+    "PXL_20260928_134651671.jpg",
+    "IMG20261010124636.jpg",
+    "IMG20261010124645.jpg",
+    "IMG20261010130509.jpg",
+    "IMG20261010130518.jpg"
+   ]
+  },
+  "croquetas": {
+   "hero": 10,
+   "withPeople": [],
+   "original": [
+    "PXL_20260928_134715558.jpg",
+    "PXL_20260929_142130578.MP.jpg",
+    "IMG20260930115241.jpg",
+    "IMG20260930115440.jpg",
+    "IMG20260930124054.jpg",
+    "IMG20260930130146.jpg",
+    "IMG20260930130157.jpg",
+    "PXL_20260930_112230532.MP.jpg",
+    "PXL_20260930_112233404.MP.jpg",
+    "PXL_20261004_111807804.MP.jpg"
+   ]
+  },
+  "huevos-rellenos": {
+   "hero": 1,
+   "withPeople": [
+    2,
+    3
+   ],
+   "original": [
+    "PXL_20260923_105827967.MP.jpg",
+    "PXL_20260923_114206624.MP.jpg",
+    "PXL_20260923_114323924.MP.jpg",
+    "PXL_20260923_114349364.MP.jpg"
+   ]
+  },
+  "calamares": {
+   "hero": 7,
+   "withPeople": [],
+   "original": [
+    "IMG20260930111142.jpg",
+    "IMG20260930112932.jpg",
+    "IMG20260930120631.jpg",
+    "IMG20260930120747.jpg",
+    "IMG20260930121418.jpg",
+    "IMG20260930121425.jpg",
+    "PXL_20260930_112210815.MP.jpg"
+   ]
+  },
+  "arroz-con-leche": {
+   "hero": 2,
+   "withPeople": [
+    1
+   ],
+   "original": [
+    "PXL_20261014_120811428.MP.jpg",
+    "PXL_20261014_120859600.MP.jpg"
+   ]
+  }
+ }
+}

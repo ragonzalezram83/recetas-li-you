@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16181d" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Kalam:wght@400&display=swap">
+<title>Huevos rellenos · Recetario de Li You</title>
+<meta name="description" content="Huevos rellenos, del cuaderno de recetas de Li You.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="wrap">
+  <a class="crumb" href="../">← Todas las recetas</a>
+  <header class="hero">
+    <div class="kicker">Cuaderno, págs. 16–17</div>
+    <h1>Huevos rellenos</h1>
+    <img class="hero-img" src="../img/huevos-rellenos/01.jpg" alt="Huevos rellenos">
+    <div class="facts"><span class="fact">Para 3 personas</span></div>
+  </header>
+
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#receta" data-tab="receta">Receta</a>
+    <a href="#cuaderno" data-tab="cuaderno">Cuaderno</a>
+    <a href="#fotos" data-tab="fotos">Fotos</a>
+  </nav>
+
+  <section class="view" id="v-receta">
+    <p class="version">Versión editada para cocinar. Lo que ella escribió, palabra por palabra, está en «Cuaderno».</p>
+    <button class="btn-cook" id="start-cook" type="button">Cocinar paso a paso</button>
+
+    <div>
+      <h2>Ingredientes</h2>
+      <ul class="ingr" id="ingr">
+        <li><label><input type="checkbox" id="i1"><span>5 huevos</span></label></li>
+        <li><label><input type="checkbox" id="i2"><span>1 lata de bonito</span></label></li>
+        <li><label><input type="checkbox" id="i3"><span>Tomate frito: medio vaso, más o menos, y un poco más para la salsa</span></label></li>
+        <li><label><input type="checkbox" id="i4"><span>Ajo</span></label></li>
+        <li><label><input type="checkbox" id="i5"><span>Perejil</span></label></li>
+        <li><label><input type="checkbox" id="i6"><span>Medio vasito de agua</span></label></li>
+        
+      </ul>
+    </div>
+
+    <div class="group" style="gap:1rem">
+      <h2>Preparación</h2>
+      
+      
+      <ol class="steps" start="1">
+        <li>Cocer los huevos, pelarlos y cortarlos por la mitad.</li>
+        <li>Poner en un plato las yemas y la lata de bonito con el tomate frito (medio vaso, más o menos). Remover para unirlo todo.</li>
+        <li>Rellenar las claras y colocarlas en una cazuela.</li>
+        <li>Machacar el ajo y el perejil, y agregar medio vasito de agua y un poco de tomate.</li>
+        <li>Verterlo en el plato de las sobras de rellenar y echarlo a la cazuela por encima de los huevos, para que dé un hervor y se calienten.</li>
+        <li>Y servir.</li>
+        
+      </ol>
+      
+      
+    </div>
+
+    
+
+    
+    <div class="avisos">
+      <h3>Avisos y dudas</h3>
+      <ul><li>No dice cuánto ajo ni cuánto perejil.</li><li>«rellenar los claros»: en la versión editada lo he puesto como «las claras».</li></ul>
+    </div>
+    
+  </section>
+
+  <section class="view" id="v-cuaderno" hidden>
+    <h2>Tal como lo escribió</h2>
+    
+    <figure>
+      <img src="../img/man/pdf-16.jpg" alt="Página 16 del cuaderno" data-zoom loading="lazy">
+      <figcaption>Página 16 del cuaderno. Toca para ampliar.</figcaption>
+    </figure>
+    
+    <figure>
+      <img src="../img/man/pdf-17.jpg" alt="Página 17 del cuaderno" data-zoom loading="lazy">
+      <figcaption>Página 17 del cuaderno. Toca para ampliar.</figcaption>
+    </figure>
+    
+    <p class="version">Transcripción fiel, con su ortografía. Lo que va entre corchetes son aclaraciones de la transcripción.</p>
+    <blockquote class="fiel">
+      <p>Huevos rellenos (3 p.)</p><p>5 huevos, una lata de bonito, ajo perejil y tomate frito</p><p>(cocinar)</p><p>cocer los huevos, pelarlos y cortarlos a la mitad poner en un plato las yemas y la lata de bonito con el tomate frito, (medio vaso) (mas o menos) remover para unirlo todo, luego rellenar los claros y colocar en una cazuela, machacar el ajo y perejil, agregar medio vasito de agua y un poco de tomate, verterlo en el plato de las sobras de rellenar y echarlo para la cazuela por encima de los huevos para que de un herbor y calentarlos, (y servir)</p>
+    </blockquote>
+    
+  </section>
+
+  <section class="view" id="v-fotos" hidden>
+    <h2>En la cocina</h2>
+    
+    <div class="gallery">
+      <img src="../img/huevos-rellenos/01.jpg" alt="Foto 1 de Huevos rellenos" data-zoom loading="lazy">
+      <img src="../img/huevos-rellenos/04.jpg" alt="Foto 2 de Huevos rellenos" data-zoom loading="lazy">
+      
+    </div>
+    
+  </section>
+
+  <footer>
+    <span>Fuente: PDF págs. 16–17. Fotos en la carpeta «Huevos rellenos».</span>
+    <span>Del cuaderno de Li You. Transcripción y fotos de la familia.</span>
+  </footer>
+</div>
+
+<div id="zoom" hidden><img alt=""></div>
+
+<div id="cook" hidden role="dialog" aria-modal="true" aria-label="Modo cocina">
+  <div class="cook-top">
+    <span id="cook-count"></span>
+    <button type="button" id="cook-close">Salir</button>
+  </div>
+  <div class="cook-body">
+    <div class="cook-phase" id="cook-phase"></div>
+    <p class="cook-text" id="cook-text"></p>
+    <div class="timers" id="cook-timers"></div>
+  </div>
+  <div>
+    <div class="cook-nav">
+      <button type="button" id="cook-prev">Atrás</button>
+      <button type="button" class="next" id="cook-next">Siguiente</button>
+    </div>
+    <div class="progress"><i id="cook-bar"></i></div>
+  </div>
+</div>
+
+<script type="application/json" id="receta-data">{"slug": "huevos-rellenos", "steps": [{"phase": "", "html": "Cocer los huevos, pelarlos y cortarlos por la mitad.", "timers": []}, {"phase": "", "html": "Poner en un plato las yemas y la lata de bonito con el tomate frito (medio vaso, más o menos). Remover para unirlo todo.", "timers": []}, {"phase": "", "html": "Rellenar las claras y colocarlas en una cazuela.", "timers": []}, {"phase": "", "html": "Machacar el ajo y el perejil, y agregar medio vasito de agua y un poco de tomate.", "timers": []}, {"phase": "", "html": "Verterlo en el plato de las sobras de rellenar y echarlo a la cazuela por encima de los huevos, para que dé un hervor y se calienten.", "timers": []}, {"phase": "", "html": "Y servir.", "timers": []}]}</script>
+<script src="../assets/receta.js"></script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="es">
+<head>
+{% include "_head.html" %}
+<title>{{ r.title }} · Recetario de Li You</title>
+<meta name="description" content="{{ r.title }}, del cuaderno de recetas de Li You.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="wrap">
+  <a class="crumb" href="../">← Todas las recetas</a>
+  <header class="hero">
+    <div class="kicker">{% if r.page_label %}Cuaderno, {{ r.page_label }}{% else %}Cuaderno{% endif %}</div>
+    <h1>{{ r.title }}</h1>
+    <img class="hero-img{% if not r.hero_is_photo %} manuscript{% endif %}" src="../{{ r.hero }}" alt="{% if r.hero_is_photo %}{{ r.title }}{% else %}{{ r.pages_html[0].caption }}{% endif %}">
+    <div class="facts">{% for f in r.facts %}<span class="fact">{{ f }}</span>{% endfor %}</div>
+  </header>
+
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#receta" data-tab="receta">Receta</a>
+    <a href="#cuaderno" data-tab="cuaderno">Cuaderno</a>
+    <a href="#fotos" data-tab="fotos">Fotos</a>
+  </nav>
+
+  <section class="view" id="v-receta">
+    <p class="version">Versión editada para cocinar. Lo que ella escribió, palabra por palabra, está en «Cuaderno».</p>
+    <button class="btn-cook" id="start-cook" type="button">Cocinar paso a paso</button>
+
+    <div>
+      <h2>Ingredientes</h2>
+      <ul class="ingr" id="ingr">
+        {% for i in r.ingredients %}<li><label><input type="checkbox" id="i{{ loop.index }}"><span>{{ i | md }}</span></label></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="group" style="gap:1rem">
+      <h2>Preparación</h2>
+      {% for g in r.groups_html %}
+      {% if g.label %}<div class="group-label">{{ g.label }}</div>{% endif %}
+      <ol class="steps" start="{{ g.start }}">
+        {% for s in g["items"] %}<li>{{ s }}</li>
+        {% endfor %}
+      </ol>
+      {% endfor %}
+      {% for a in r.afterSteps %}<p class="after">{{ a | md }}</p>{% endfor %}
+    </div>
+
+    {% if r.notes %}
+    <div class="notes">
+      <h3>Notas de mamá</h3>
+      {% for n in r.notes %}<p class="mama">{{ n | md }}</p>{% endfor %}
+    </div>
+    {% endif %}
+
+    {% if r.warnings %}
+    <div class="avisos">
+      <h3>Avisos y dudas</h3>
+      <ul>{% for w in r.warnings %}<li>{{ w | md }}</li>{% endfor %}</ul>
+    </div>
+    {% endif %}
+  </section>
+
+  <section class="view" id="v-cuaderno" hidden>
+    <h2>Tal como lo escribió</h2>
+    {% for p in r.pages_html %}
+    <figure>
+      <img src="../{{ p.src }}" alt="{{ p.caption }}" data-zoom loading="lazy">
+      <figcaption>{{ p.caption }}. Toca para ampliar.</figcaption>
+    </figure>
+    {% endfor %}
+    <p class="version">Transcripción fiel, con su ortografía. Lo que va entre corchetes son aclaraciones de la transcripción.</p>
+    <blockquote class="fiel">
+      {% for l in r.transcription %}<p>{{ l | md }}</p>{% endfor %}
+    </blockquote>
+    {% for m in r.margin %}
+    <div class="margin-note">
+      <span class="small">{{ m.label }}:</span>
+      <p class="mama">{{ m.text | md }}</p>
+    </div>
+    {% endfor %}
+  </section>
+
+  <section class="view" id="v-fotos" hidden>
+    <h2>En la cocina</h2>
+    {% if r.photos %}
+    <div class="gallery">
+      {% for p in r.photos %}<img src="../img/{{ r.slug }}/{{ p }}" alt="Foto {{ loop.index }} de {{ r.title }}" data-zoom loading="lazy">
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="empty">Esta receta todavía no tiene fotos.</p>
+    {% endif %}
+  </section>
+
+  <footer>
+    <span>Fuente: {{ r.source | md }}</span>
+    <span>Del cuaderno de Li You. Transcripción y fotos de la familia.</span>
+  </footer>
+</div>
+
+<div id="zoom" hidden><img alt=""></div>
+
+<div id="cook" hidden role="dialog" aria-modal="true" aria-label="Modo cocina">
+  <div class="cook-top">
+    <span id="cook-count"></span>
+    <button type="button" id="cook-close">Salir</button>
+  </div>
+  <div class="cook-body">
+    <div class="cook-phase" id="cook-phase"></div>
+    <p class="cook-text" id="cook-text"></p>
+    <div class="timers" id="cook-timers"></div>
+  </div>
+  <div>
+    <div class="cook-nav">
+      <button type="button" id="cook-prev">Atrás</button>
+      <button type="button" class="next" id="cook-next">Siguiente</button>
+    </div>
+    <div class="progress"><i id="cook-bar"></i></div>
+  </div>
+</div>
+
+<script type="application/json" id="receta-data">{{ r.cook_json }}</script>
+<script src="../assets/receta.js"></script>
+</body>
+</html>

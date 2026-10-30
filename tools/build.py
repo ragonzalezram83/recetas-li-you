@@ -62,8 +62,7 @@ for r in recipes:
     rest = r["intro"][len(r["title"]):].lstrip(", ").strip()
     r["facts"] = [s.strip().rstrip(".") for s in re.split(r"\.\s+", rest) if s.strip()]
     r["facts"] = [f[0].upper() + f[1:] for f in r["facts"]]
-    if not r["facts"]:
-        r["facts"] = ["Raciones sin indicar"]
+    r["facts"] = fotos.get("facts", {}).get(r["slug"], r["facts"]) or ["Raciones sin indicar"]
     r["pages_html"] = [{"src": man_file(p), "caption": man_caption(p)} for p in r["pages"]]
     nums = [p["page"] for p in r["pages"] if p["src"] == "pdf"]
     r["page_label"] = ("págs. " + "–".join(str(n) for n in nums)) if len(nums) > 1 else (f"pág. {nums[0]}" if nums else "")

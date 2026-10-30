@@ -14,7 +14,7 @@ Las dudas se muestran como `POR CONFIRMAR`. No se añade ningún ingrediente, ca
 
 ## Cómo se actualiza
 
-1. `data/transcripciones.md` es la copia del documento de trabajo. `tools/parse_doc.py data/transcripciones.md data/recetas.json` la convierte en datos.
+1. `data/transcripciones.md` es la copia del documento de trabajo (`tools/doc_to_md.py` la genera desde la lectura del doc). `tools/parse_doc.py data/transcripciones.md data/recetas.json` la convierte en datos.
 2. `data/fotos.json` dice qué foto va de portada en cada receta.
 3. `python3 tools/build.py` genera `index.html`, una carpeta por receta y los QR en `qr/` (necesita `pip install segno jinja2`).
 

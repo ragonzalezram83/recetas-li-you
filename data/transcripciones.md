@@ -2,6 +2,7 @@
 2026-10-26 · @Raul
 ## Inventario del PDF
 El PDF «Recetas you» tiene 20 páginas de cuaderno cuadriculado con 10 recetas manuscritas completas y la segunda hoja de una undécima (Patatas a la importancia, cuya primera hoja llegó aparte en «Importancia.pdf»); todas se leen bien salvo los puntos marcados en «Preguntas y avisos».
+[table] Págs.Título tal como está escritoRacionesFotos de la carpeta1–2Muslos de Pollo guisados4 personasno3–4Costillas adobadas con patatas4 personassí (costillas con patatas)5–6Albondigas en Salsa5 personassí (albondigas)7–8Macarrones con chorizo y carne picada4 personasno9–10Cocido Casero6 personassí (sopa de cocido)11–12Conejo al ajillo3 personasno13–14Masa de croquetas de cocidono lo dicesí (Croquetas)15Patatas a la importancia, 2.ª hoja (la 1.ª no estaba en el PDF; llegó en «Importancia.pdf»)3 personassí (patatas Importancia)16–17Huevos rellenos3 personassí18–19Calamares en su tinta2 personassí20Arroz con lecheno lo dice (reparte en 4 copas)sí
 He revisado el resto de recetas y no falta ninguna otra hoja, salvo una duda con el final de las Albóndigas (ver Preguntas). La carpeta de fotos tiene además Frejoles, Lengua y Sopa de cocido, que no aparecen en el manuscrito. Las fotos son del plato y de los pasos, no de las hojas manuscritas.
 ## Capítulos propuestos
 Propongo cuatro capítulos por tipo de plato, que es como se busca una receta en casa:
@@ -48,11 +49,11 @@ _Nota al margen (vertical, pág. 1):_ aceite 25 ml. mas o menos
 2. Poner una paellera pequeña o una cazuela con aceite.
 3. Picar la cebolla, los pimientos, los ajos y la zanahoria, y dejarlo pochar un poco.
 4. Agregar el tomate y dejarlo que se haga un poco más.
-5. Echar los muslos y rehogar con media cucharadita de pimentón. Rehogar un poco y agregar el agua.
+5. Echar los muslos y rehogar con media cucharadita de pimentón. Rehogar un poco y agregar el agua con la media pastilla de Starlux.
 6. Dejarlos cocer a fuego lento, más o menos 1 hora según sean de grandes, hasta que se consuma el agua.
 **Avisos**
 - El pimentón y la sal salen en los pasos pero no en la lista de ingredientes. No dice si el pimentón es dulce o picante.
-- La media pastilla de Starlux está en la lista, pero los pasos no dicen cuándo se echa: [POR CONFIRMAR].
+- La media pastilla de Starlux se echa con el agua (Raul).
 - «hasta que» en el paso 6 lo he añadido yo para que se entienda; el original dice «según sean de grandes que se consuma el agua».
 **Fuente**: PDF págs. 1–2. Sin fotos en la carpeta.
 ## Costillas adobadas con patatas
@@ -62,7 +63,7 @@ _Nota al margen (vertical, pág. 1):_ aceite 25 ml. mas o menos
 > 500 gr. [la primera cifra está escrita encima de otra; Raul confirma 500] de costillas de cerdo adobadas, 2 dientes de ajo un poco de oregano, 400 Ml. de agua 1 Kg. de patatas
 > (Cocinar) (olla expres)
 > poner la olla con un poco de aceite, picar los ajos a reogar y seguido las costillas, reogar bien y hechar el agua, cerrar la olla y cocer 30 minutos, despues hechar las patatas y dejar cocer con un poco de oregano 30 minutos, mas o menos dejar reposar, y servir
-_Nota al margen (vertical, pág. 3):_ aceite al gusto / 20 [POR CONFIRMAR: «ml»] mas o menos
+_Nota al margen (vertical, pág. 3):_ aceite al gusto / 20 ml mas o menos
 ### B. Versión editada
 **Costillas adobadas con patatas**, para 4 personas. En olla exprés.
 **Ingredientes**
@@ -71,7 +72,7 @@ _Nota al margen (vertical, pág. 3):_ aceite al gusto / 20 [POR CONFIRMAR: «ml�
 - Un poco de orégano
 - 400 ml de agua
 - 1 kg de patatas
-- Aceite al gusto, 20 [POR CONFIRMAR: ml] más o menos
+- Aceite al gusto, 20 ml más o menos
 **Preparación**
 1. Poner la olla con un poco de aceite. Picar los ajos y rehogar, y seguido las costillas.
 2. Rehogar bien y echar el agua.
@@ -125,7 +126,7 @@ _Nota al margen (vertical, 2.ª hoja):_ Pincharlas con un tenedor para ver si es
 ### A. Transcripción fiel (págs. 5–6)
 > (Albondigas) en Salsa para 5 personas
 > (ingredientes)
-> 600 gr. de carne picada, 2 huevos, perejil 3 gr. ajo 2, o 3 dientes, unos 4 gr. pan rayado 30 gr. leche 76 ml., sal (al gusto) 1 Pastilla de Starlux
+> 600 gr. de carne picada, 2 huevos, perejil 3 gr. ajo 2, o 3 dientes, unos 4 gr. pan rayado 30 gr. leche 75 ml., sal (al gusto) 1 Pastilla de Starlux
 > (preparacion)
 > en un bol echar los huevos, picar el perejil y los ajos menudito, batir un poco y agregar la carne picada remover bien poner sal, agregar el pan rayado, y la leche, amasarlo con las manos bien limpias → dejarlo que se macere para el dia siguiente en el frigo, taparlo.
 > (cocinar)
@@ -140,7 +141,7 @@ _Nota al margen (vertical, pág. 6):_ (colar el aceite) 65 ml
 - 3 g de perejil, y un poco más para la salsa
 - 2 o 3 dientes de ajo (unos 4 g), y 2 dientes más para la salsa
 - 30 g de pan rallado
-- 76 ml de leche
+- 75 ml de leche
 - Sal al gusto
 - Media pastilla de Starlux (caldo de carne), en el agua de la salsa
 - Harina para rebozar, y una cucharadita pequeña para la salsa
@@ -157,20 +158,20 @@ Al día siguiente:
 1. Hacer bolitas y meterlas en un bol con harina para freír.
 2. Poner la sartén con unos 65 ml de aceite, freírlas y sacarlas a una cazuela.
 3. En el mismo aceite (colado), picar un poco de cebolla, media o al gusto, y refreírla con una cucharadita pequeña de harina.
-4. Machacar en el mortero 2 dientes de ajo y perejil, ponerle 600 ml de agua, laurel y media pastilla de Starlux, y a hervir.
+4. Machacar en el mortero 2 dientes de ajo y perejil, ponerle 600 ml de agua, laurel y media pastilla de Starlux, y a hervir. Por último, las albóndigas se cocinan un rato en la salsa; el tiempo no es fijo (Raul).
 **Notas de mamá**
 - «Colar el aceite» antes de hacer la salsa (nota al margen).
 **Avisos**
-- La receta termina en «a hervir (y Starlux) 1/2». No dice cuándo se juntan las albóndigas con la salsa ni cuánto cuecen. [POR CONFIRMAR: ¿hay otra hoja?]
+- La receta termina en «a hervir (y Starlux) 1/2». El paso final lo añade Raul: al final las albóndigas se cocinan un rato en la salsa, y el tiempo no es fijo.
 - «1/2» es media pastilla de Starlux, que va en el agua de la salsa (Raul). La lista de ingredientes decía 1 pastilla.
-- Leche: leo «76 ml»; podría ser 75. [POR CONFIRMAR]
+- Leche: 75 ml (Raul).
 - En «ajo 2, o 3» hay una cifra escrita encima de otra.
 - Aceite, harina, cebolla, agua y laurel no están en la lista; los he sacado de los pasos.
 **Fuente**: PDF págs. 5–6. Fotos en la carpeta «albondigas».
 ## Macarrones con chorizo y carne picada
 ### A. Transcripción fiel (págs. 7–8)
 > Macarrones con chorizo y carne picada (4 perso.)
-> carne picada 300 gr. cebolla [POR CONFIRMAR: 90; la primera cifra está escrita encima de otra] gr. ajos 1 aceite unos 25 ml. tomate un tarro de 300 gr. mas, o menos, chorizo 90 gr., taquitos de jamón 70 gr.
+> carne picada 300 gr. cebolla 90 [la primera cifra está escrita encima de otra; Raul confirma 90] gr. ajos 1 aceite unos 25 ml. tomate un tarro de 300 gr. mas, o menos, chorizo 90 gr., taquitos de jamón 70 gr.
 > (cocinar)
 > poner la sarten con la aceite picar la cebolla y el ajo, dejar que se poche, y agregar la carne picada reogar bien y agregar el tomate, y dejarlo en la sarten. poner una casuela con un 1l de agua y una pastilla de extarlus cuando este cociendo añadir los macarrones 225 gr. (cocer al gusto) remover para que no se pegen, despues de cocidos, ponerlos en un escurridor y pasarlos por agua fria y ponerlos en la cazuela, agregar el sofrito, y remover; en otra Sarten, con un poquito de aceite poner, las rajitas de chorizo y los taquitos de jamón que se refrian un poco, y agregar a la cazuela y remoberlo todo bien (calentar y servir)
 ### B. Versión editada
@@ -178,7 +179,7 @@ Al día siguiente:
 **Ingredientes**
 - 225 g de macarrones
 - 300 g de carne picada
-- [POR CONFIRMAR: 90] g de cebolla
+- 90 g de cebolla
 - 1 ajo
 - Unos 25 ml de aceite, y un poquito más para el chorizo
 - Un tarro de tomate de 300 g, más o menos
@@ -194,7 +195,7 @@ Al día siguiente:
 5. En otra sartén, con un poquito de aceite, poner las rajitas de chorizo y los taquitos de jamón, que se refrían un poco.
 6. Agregarlo a la cazuela y removerlo todo bien. Calentar y servir.
 **Avisos**
-- La cebolla tiene la primera cifra corregida; leo 90 g.
+- La cebolla tiene la primera cifra corregida; Raul confirma 90 g.
 - Los macarrones (225 g), el agua y el Starlux salen en los pasos, no en la lista.
 - No menciona la sal.
 **Fuente**: PDF págs. 7–8. Sin fotos en la carpeta.
@@ -267,7 +268,7 @@ Tiempo de cocción: tres cuartos de hora.
 ## Croquetas de cocido
 ### A. Transcripción fiel (págs. 13–14)
 > Masa de croquetas de cocido
-> picar bien picadito todo lo que sobre del cocido, osea, la carne, el jamón, el chorizo, y el tocino, bien escogido, que pesara unos 250 gr. poner la sarten con 90 de aceite, picar 110 de cebolla bien picadita y reogar agregar 187 de harina y reogar bien, separarla que se enfrie cuando este fria agregar 1 litro y medio de leche y remober bien para que no se formen grumos, poner al fuego y seguir remobiendo hasta que haga [POR CONFIRMAR: «clocho»] osea que empiece a hervir, luego agregar el picadillo y seguir remobiendo hasta que este bien ligado, ponerlo en una fuente y taparlo con papel trasparente se deja enfriar, y luego para el frigo, al dia siguiente se hacen
+> picar bien picadito todo lo que sobre del cocido, osea, la carne, el jamón, el chorizo, y el tocino, bien escogido, que pesara unos 250 gr. poner la sarten con 90 de aceite, picar 110 de cebolla bien picadita y reogar agregar 187 de harina y reogar bien, separarla que se enfrie cuando este fria agregar 1 litro y medio de leche y remober bien para que no se formen grumos, poner al fuego y seguir remobiendo hasta que haga cloclo osea que empiece a hervir, luego agregar el picadillo y seguir remobiendo hasta que este bien ligado, ponerlo en una fuente y taparlo con papel trasparente se deja enfriar, y luego para el frigo, al dia siguiente se hacen
 > (modo de hacerlas)
 > coger un poco de masa con una cuchara o tenedor, enrrollarlas con la mano,
 _Nota al margen (vertical, pág. 14):_ pasarlos por pan rayado, un poquito, cuando los tengais todos hechos los pasais por huevo batido 2, o 3 huevos y otra vez por pan rayado, y las colocais en bandejas / freir con abundante aceite
@@ -288,7 +289,7 @@ La masa:
 2. Poner la sartén con 90 ml de aceite. Picar 110 g de cebolla bien picadita y rehogar.
 3. Agregar 187 g de harina y rehogar bien. Apartarla y que se enfríe.
 4. Cuando esté fría, agregar 1 litro y medio de leche y remover bien para que no se formen grumos.
-5. Poner al fuego y seguir removiendo hasta que haga «clocho», o sea, que empiece a hervir.
+5. Poner al fuego y seguir removiendo hasta que haga «cloclo», o sea, que empiece a hervir.
 6. Luego agregar el picadillo y seguir removiendo hasta que esté bien ligado.
 7. Ponerlo en una fuente y taparlo con papel transparente. Se deja enfriar y luego al frigo. Al día siguiente se hacen.
 Modo de hacerlas:
@@ -298,8 +299,8 @@ Modo de hacerlas:
 4. Freír con abundante aceite.
 **Avisos**
 - En el cuaderno, «90», «110» y «187» no llevan unidad. Raul confirma: 90 ml de aceite, 110 g de cebolla y 187 g de harina.
-- «hasta que haga clocho»: la palabra se lee así, y ella misma la explica («o sea que empiece a hervir»). ¿Es una expresión de casa?
-- No dice para cuántas personas ni cuántas croquetas salen.
+- «Cloclo»: Raul confirma la palabra. Es la onomatopeya del ruido que hace al empezar a hervir («chop chop»).
+- Salen unas 65 a 75 croquetas (Raul).
 - Los pasos 9 a 11 están en la nota del margen; los he puesto en orden después del paso 8.
 **Fuente**: PDF págs. 13–14. Fotos en la carpeta «Croquetas».
 ## Huevos rellenos
@@ -325,7 +326,7 @@ Modo de hacerlas:
 5. Verterlo en el plato de las sobras de rellenar y echarlo a la cazuela por encima de los huevos, para que dé un hervor y se calienten.
 6. Y servir.
 **Avisos**
-- No dice cuánto ajo ni cuánto perejil.
+- Ajo y perejil, al gusto (Raul).
 - «rellenar los claros»: en la versión editada lo he puesto como «las claras».
 **Fuente**: PDF págs. 16–17. Fotos en la carpeta «Huevos rellenos».
 ## Calamares en su tinta
@@ -333,7 +334,7 @@ Modo de hacerlas:
 > Calamares en su tinta (2 personas)
 > kilo y medio de calamares una hoja de laurel aceite 43, o 45 ml. la 4º parte de una cebolla una cucharada de harina la tinta del calamar
 > (modo de hacerlo)
-> labar y limpiar bien los calamares, trocearlos, no muy pequeños ponerlos en una cazuela [palabra tachada] con agua [POR CONFIRMAR: 250; la cifra del medio está escrita encima de otra] ml, ponerlos a cocer, cuando esten cocidos poner una sarten, con la aceite picar la cebolla menudita cuando este pochada añadir el harina para que se refrie, machacar la tinta en el mortero y con el agua de cocerlos echarla en el mortero y luego en la sarten, darle bueltas para hacer la salsa, despues agregar los Calamares a la salsa y remover que cuezan un poco, unos 5 mtos
+> labar y limpiar bien los calamares, trocearlos, no muy pequeños ponerlos en una cazuela [palabra tachada] con agua 250 [la cifra del medio está escrita encima de otra; Raul confirma 250] ml, ponerlos a cocer, cuando esten cocidos poner una sarten, con la aceite picar la cebolla menudita cuando este pochada añadir el harina para que se refrie, machacar la tinta en el mortero y con el agua de cocerlos echarla en el mortero y luego en la sarten, darle bueltas para hacer la salsa, despues agregar los Calamares a la salsa y remover que cuezan un poco, unos 5 mtos
 _Nota al margen (pág. 18, junto a «cocer»):_ laurel
 ### B. Versión editada
 **Calamares en su tinta**, para 4 personas
@@ -344,7 +345,7 @@ _Nota al margen (pág. 18, junto a «cocer»):_ laurel
 - La cuarta parte de una cebolla
 - 1 cucharada de harina
 - La tinta del calamar
-- [POR CONFIRMAR: 250] ml de agua
+- 250 ml de agua
 **Preparación**
 1. Lavar y limpiar bien los calamares y trocearlos, no muy pequeños.
 2. Ponerlos en una cazuela con el agua y el laurel, y ponerlos a cocer.
@@ -354,7 +355,7 @@ _Nota al margen (pág. 18, junto a «cocer»):_ laurel
 6. Después, agregar los calamares a la salsa, remover y que cuezan un poco, unos 5 minutos.
 **Avisos**
 - El cuaderno dice «2 personas», pero según Raul el kilo y medio da más bien para 4. La versión editada pone 4.
-- El agua tiene una cifra corregida; leo 250 ml.
+- El agua tiene una cifra corregida; Raul confirma 250 ml.
 - No menciona la sal.
 **Fuente**: PDF págs. 18–19. Fotos en la carpeta «Calamares en su tinta».
 ## Arroz con leche
@@ -374,27 +375,27 @@ _Nota al margen (vertical, pág. 20):_ (dejarlo enfriar, y luego al frigo)
 - Canela
 **Preparación**
 1. Poner a hervir la leche. Agregar el azúcar y la naranja.
-2. Cuando empiece a hervir, agregar el arroz.
+2. Cuando empiece a hervir, agregar el arroz y dejarlo cocer 15 minutos.
 3. Cuando esté cocido, exprimir bien la naranja achuchando con un tenedor.
-4. Repartirlo en 4 copas.
+4. Luego dejarlo reposar y repartirlo en 4 copas.
 5. Dejarlo enfriar y luego al frigo.
 6. Agregar la canela por encima, al gusto.
 **Avisos**
-- No dice cuánto tiempo cuece el arroz.
+- El arroz cuece 15 minutos y luego se deja reposar (Raul).
 - La nota del margen no dice si se enfría antes o después de poner la canela; la he puesto antes.
 **Fuente**: PDF pág. 20. Fotos en la carpeta «Arroz con leche».
 ## Preguntas y avisos
 **Las 11 recetas están transcritas. Quedan estas dudas****:**
 1. Ficha aprobada como base (27 oct).
 2. Costillas: 500 g, confirmado.
-3. Costillas: ¿la nota del margen es «20 ml» de aceite?
-4. Muslos: ¿en qué momento se echa la media pastilla de Starlux?
-5. Albóndigas: «1/2» resuelto (media pastilla de Starlux en el agua). ¿Cuándo se juntan las albóndigas con la salsa y cuánto cuecen? ¿Leche 76 o 75 ml?
-6. Macarrones: ¿cebolla 90 g?
-7. Croquetas: unidades confirmadas. ¿«Hasta que haga clocho» está bien leído?
-8. Calamares: raciones corregidas a 4. ¿El agua son 250 ml?
+3. Costillas: 20 ml de aceite, confirmado.
+4. Muslos: el Starlux va con el agua.
+5. Albóndigas: «1/2» resuelto (media pastilla de Starlux en el agua). Al final se cocinan un rato en la salsa, sin tiempo fijo. Leche 75 ml.
+6. Macarrones: cebolla 90 g, confirmado.
+7. Croquetas: unidades confirmadas. La palabra es «cloclo». Salen unas 65 a 75.
+8. Calamares: raciones corregidas a 4. Agua 250 ml, confirmado.
 9. Patatas a la importancia: resuelto (650 ml de agua; la nota dice «Pincharlas»).
 10. Frejoles y Lengua: ¿van al libro solo con fotos o se quedan fuera? ¿Y la Sopa de cocido es la del Cocido casero?
 11. ¿Te valen los cuatro capítulos?
 **Resuelto: la página 15** es la segunda hoja de Patatas a la importancia. Es igual a la segunda hoja de «Importancia.pdf», y la primera hoja faltaba en el PDF principal.
-**Duda abierta: el final de las Albóndigas.** La pág. 6 termina en «y a hervir (y Starlux) 1/2» y la pág. 7 ya empieza con los Macarrones. Los pasos no dicen cuándo se juntan las albóndigas con la salsa ni cuánto cuecen. «1/2» puede ser media pastilla de Starlux o «hoja 1 de 2», y la lista de ingredientes dice «1 pastilla de Starlux». ¿Hay otra hoja de las Albóndigas?
+**Resuelto por Raul****: el final de las Albóndigas.** No falta ninguna hoja. «1/2» es media pastilla de Starlux, que va en el agua de la salsa. El último paso es cocinar las albóndigas un rato en la salsa, sin tiempo fijo.

@@ -261,6 +261,7 @@ _Nota al margen (vertical, pág. 12):_ agregar mas agua si lo necesita
 Tiempo de cocción: tres cuartos de hora.
 **Notas de mamá**
 - «Agregar más agua si lo necesita.»
+- «Con pimiento siempre está más rico.» (Lo dice ella, contado por Raul el 11 de noviembre de 2026; no viene en el cuaderno.)
 **Avisos**
 - La sal sale dos veces: al principio (salar el conejo) y al final (al gusto). Lo dejo como está.
 - En «1 kilo» la K está escrita encima de otra letra; la lectura es clara.

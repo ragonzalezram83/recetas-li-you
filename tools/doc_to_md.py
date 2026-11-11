@@ -6,7 +6,8 @@ import json
 import sys
 import xml.etree.ElementTree as ET
 
-root = ET.fromstring(json.load(open(sys.argv[1]))["data"]["xml"])
+raw = open(sys.argv[1]).read()
+root = ET.fromstring(json.JSONDecoder().raw_decode(raw)[0]["data"]["xml"])
 
 
 def txt(e):

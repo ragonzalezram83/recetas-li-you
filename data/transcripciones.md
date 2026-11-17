@@ -198,7 +198,7 @@ Al día siguiente:
 - La cebolla tiene la primera cifra corregida; Raul confirma 90 g.
 - Los macarrones (225 g), el agua y el Starlux salen en los pasos, no en la lista.
 - No menciona la sal.
-**Fuente**: PDF págs. 7–8. Sin fotos en la carpeta.
+**Fuente**: PDF págs. 7–8. Fotos: carpeta «fotos recetas/Macarrones» (7 fotos, 11 nov 2026).
 ## Cocido casero
 ### A. Transcripción fiel (págs. 9–10)
 > Cocido Casero (6 per.)
@@ -265,7 +265,7 @@ Tiempo de cocción: tres cuartos de hora.
 **Avisos**
 - La sal sale dos veces: al principio (salar el conejo) y al final (al gusto). Lo dejo como está.
 - En «1 kilo» la K está escrita encima de otra letra; la lectura es clara.
-**Fuente**: PDF págs. 11–12. Sin fotos en la carpeta.
+**Fuente**: PDF págs. 11–12. Fotos: carpeta «fotos recetas/Conejo» (12 fotos, 10 y 11 nov 2026).
 ## Croquetas de cocido
 ### A. Transcripción fiel (págs. 13–14)
 > Masa de croquetas de cocido

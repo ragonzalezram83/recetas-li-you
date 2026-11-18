@@ -8,6 +8,7 @@ META = {
  "Macarrones con chorizo y carne picada": ("macarrones", "verdura", [("pdf",7),("pdf",8)], None),
  "Cocido casero": ("cocido", "cocido", [("pdf",9),("pdf",10)], "sopa de cocido"),
  "Conejo al ajillo": ("conejo", "carnes", [("pdf",11),("pdf",12)], None),
+ "Lengua de cerdo guisada": ("lengua", "carnes", [("lengua",1),("lengua",2)], "Lengua de cerdo guisada"),
  "Croquetas de cocido": ("croquetas", "cocido", [("pdf",13),("pdf",14)], "Croquetas"),
  "Huevos rellenos": ("huevos-rellenos", "verdura", [("pdf",16),("pdf",17)], "Huevos rellenos"),
  "Calamares en su tinta": ("calamares", "verdura", [("pdf",18),("pdf",19)], "Calamares en su tinta"),

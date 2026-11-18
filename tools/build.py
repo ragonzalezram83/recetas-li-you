@@ -50,12 +50,17 @@ def photos_for(slug):
     return sorted(f for f in os.listdir(folder) if f.endswith(".jpg"))
 
 
+MAN_SUELTOS = {"imp": "Importancia.pdf", "lengua": "Lengua de cerdo.pdf"}
+
+
 def man_file(p):
-    return f"img/man/imp-{p['page']}.jpg" if p["src"] == "imp" else f"img/man/pdf-{p['page']:02d}.jpg"
+    return f"img/man/{p['src']}-{p['page']}.jpg" if p["src"] in MAN_SUELTOS else f"img/man/pdf-{p['page']:02d}.jpg"
 
 
 def man_caption(p):
-    return f"«Importancia.pdf», hoja {p['page']}" if p["src"] == "imp" else f"Página {p['page']} del cuaderno"
+    if p["src"] in MAN_SUELTOS:
+        return f"«{MAN_SUELTOS[p['src']]}», hoja {p['page']}"
+    return f"Página {p['page']} del cuaderno"
 
 
 for r in recipes:

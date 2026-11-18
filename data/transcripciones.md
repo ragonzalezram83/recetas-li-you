@@ -55,7 +55,7 @@ _Nota al margen (vertical, pág. 1):_ aceite 25 ml. mas o menos
 - El pimentón y la sal salen en los pasos pero no en la lista de ingredientes. No dice si el pimentón es dulce o picante.
 - La media pastilla de Starlux se echa con el agua (Raul).
 - «hasta que» en el paso 6 lo he añadido yo para que se entienda; el original dice «según sean de grandes que se consuma el agua».
-**Fuente**: PDF págs. 1–2. Sin fotos en la carpeta.
+**Fuente**: PDF págs. 1–2. Fotos: carpeta «fotos recetas/Pollo guisado» (3 fotos, 13 nov 2026).
 ## Costillas adobadas con patatas
 ### A. Transcripción fiel (págs. 3–4)
 > Costillas adobadas con patatas (4 personas)
@@ -266,6 +266,41 @@ Tiempo de cocción: tres cuartos de hora.
 - La sal sale dos veces: al principio (salar el conejo) y al final (al gusto). Lo dejo como está.
 - En «1 kilo» la K está escrita encima de otra letra; la lectura es clara.
 **Fuente**: PDF págs. 11–12. Fotos: carpeta «fotos recetas/Conejo» (12 fotos, 10 y 11 nov 2026).
+## Lengua de cerdo guisada
+### A. Transcripción fiel («Lengua de cerdo.pdf», 2 hojas)
+> (lenguas de Cerdo (6)
+> se laban y se ponen en olla a presión, con agua y sal, que queden cubiertas de agua, poner una [palabra tachada] oja de laurel y un troso de cebolla y 2 dientes de ajo dejarlas cocer de 35 minut. cuando se enfrien se sacan y se pelan, luego cuando esten bien limpias se cortan, y se prepara la salsa.
+> se pone una cazuela con aceite, se pica un poco de cebolla bien menuda y ajos dos, se reoga bien que se dore un poco con una cucharada de harina y pimenton, y 2 guindillas partidas, y se echa el agua de cocerlas, cuando este cociendo se deja de dies a 15 m. de pende como esten de cocidas
+### B. Versión editada
+**Lengua de cerdo guisada**, [POR CONFIRMAR: en el título pone «(6)», ¿6 lenguas o 6 personas?]
+**Ingredientes**
+- Lenguas de cerdo [POR CONFIRMAR: «(6)»]
+- Agua y sal, que queden cubiertas
+- 1 hoja de laurel
+- Un trozo de cebolla
+- 2 dientes de ajo
+- Para la salsa: aceite (sin cantidad)
+- Un poco de cebolla, bien menuda
+- 2 ajos
+- Una cucharada de harina
+- Pimentón
+- 2 guindillas partidas
+- El agua de cocerlas
+**Preparación**
+1. Las lenguas se lavan y se ponen en la olla a presión con agua y sal, que queden cubiertas de agua.
+2. Poner una hoja de laurel, un trozo de cebolla y 2 dientes de ajo.
+3. Dejarlas cocer 35 minutos.
+4. Cuando se enfríen, se sacan y se pelan.
+5. Luego, cuando estén bien limpias, se cortan, y se prepara la salsa.
+6. Se pone una cazuela con aceite. Se pica un poco de cebolla bien menuda y dos ajos.
+7. Se rehoga bien, que se dore un poco, con una cucharada de harina y pimentón, y 2 guindillas partidas.
+8. Y se echa el agua de cocerlas [POR CONFIRMAR: ¿toda o una parte?].
+9. Cuando esté cociendo, se deja de diez a 15 minutos; depende de cómo estén de cocidas.
+**Avisos**
+- El cuaderno no dice cuándo se echan los trozos de lengua a la salsa. En las fotos ya están dentro mientras cuece.
+- No da cantidad de aceite ni de pimentón.
+- No dice para cuántas personas, salvo que el «(6)» lo indique.
+**Fuente**: «Lengua de cerdo.pdf» (2 hojas), en la carpeta «fotos recetas/Lengua de cerdo guisada», con 14 fotos del 17 y 18 de noviembre de 2026.
 ## Croquetas de cocido
 ### A. Transcripción fiel (págs. 13–14)
 > Masa de croquetas de cocido

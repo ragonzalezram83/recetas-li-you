@@ -13,7 +13,7 @@
     <div class="kicker">{% if r.page_label %}Cuaderno, {{ r.page_label }}{% else %}Cuaderno{% endif %}</div>
     <h1>{{ r.title }}</h1>
     <img class="hero-img{% if not r.hero_is_photo %} manuscript{% endif %}" src="../{{ r.hero }}" alt="{% if r.hero_is_photo %}{{ r.title }}{% else %}{{ r.pages_html[0].caption }}{% endif %}">
-    <div class="facts">{% for f in r.facts %}<span class="fact">{{ f }}</span>{% endfor %}</div>
+    <div class="facts">{% for f in r.facts %}<span class="fact">{{ f | md }}</span>{% endfor %}</div>
   </header>
 
   <nav class="tabs" aria-label="Secciones">

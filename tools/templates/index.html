@@ -21,7 +21,7 @@
       {% for r in ch.recipes %}
       <a class="card" href="{{ r.slug }}/">
         <img src="{{ r.hero }}" alt="" loading="lazy"{% if not r.hero_is_photo %} class="manuscript"{% endif %}>
-        <div><strong>{{ r.title }}</strong><span>{{ r.facts | join(" · ") }}</span></div>
+        <div><strong>{{ r.title }}</strong><span>{{ r.facts | map("md") | join(" · ") }}</span></div>
       </a>
       {% endfor %}
     </div>

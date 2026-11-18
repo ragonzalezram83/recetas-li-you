@@ -203,7 +203,7 @@ Al día siguiente:
 ## Cocido casero
 ### A. Transcripción fiel (págs. 9–10)
 > Cocido Casero (6 per.)
-> 300 gr. de garbanzos 300 gr. de punta de jamón 400 gr. de carne de morcillo 1 hueso de ternera que tenga nerbio, 1 puerro, 1 Zanahoria, 150 gr. de tocino 1 chorizo de 35 gr. Sal 10, o 15 gr. (al gusto)
+> 300 gr. de garbanzos 300 gr. de punta de jamón 400 gr. de carne de morcillo 1 hueso de ternera que tenga nerbio, 1 puerro, 1 Zanahoria, 150 gr. de tocino 1 chorizo de 35 gr. [Raul: son 350 g] Sal 10, o 15 gr. (al gusto)
 > poner una olla expres con agua, añadir todos los ingredientes, de agua llenarla asta donde pida la olla, (la mia es de 6 litros y medio) Tiempo de coción 30 mt apagar y dejar que siga cociendo, hasta que bajen las rayas, luego habrir la olla, llenar tarros de caldo, los que salgan y poner un poco en una cazuela para la sopa, colocar todos los ingredientes en una fuente, y en otra los garbanzos para servir y comer
 > (tiempo de cocción depende de la olla) la mia es super rapida, cuando suben las 3 rayas la dejo 30 m. y la apago
 _Nota al margen (vertical, pág. 9):_ poner a remojo los garbanzos por la noche, con sal y agua
@@ -217,7 +217,7 @@ _Nota al margen (vertical, pág. 9):_ poner a remojo los garbanzos por la noche,
 - 1 puerro
 - 1 zanahoria
 - 150 g de tocino
-- 1 chorizo de 35 g
+- 1 chorizo de 350 g
 - Sal, 10 o 15 g (al gusto)
 - Agua, hasta donde pida la olla
 **Preparación**

@@ -25,7 +25,8 @@
     "PXL_20260923_105815764.MP.jpg",
     "PXL_20260923_114349364.MP.jpg",
     "PXL_20260923_123023200.MP.jpg"
-   ]
+   ],
+   "mesa": 2
   },
   "patatas-importancia": {
    "hero": 12,
@@ -49,7 +50,7 @@
    ]
   },
   "albondigas": {
-   "hero": 14,
+   "hero": 15,
    "withPeople": [
     1,
     16,
@@ -73,7 +74,8 @@
     "PXL_20261021_115906892.MP.jpg",
     "PXL_20261021_122141017.MP.jpg",
     "PXL_20261021_122146492.jpg"
-   ]
+   ],
+   "mesa": 15
   },
   "cocido": {
    "hero": 1,
@@ -101,7 +103,8 @@
     "PXL_20260930_112233404.MP.jpg",
     "PXL_20261004_111807804.MP.jpg",
     "PXL_20261102_144835630.MP.jpg"
-   ]
+   ],
+   "heroCaption": "Estas se hicieron en la freidora de aire; normalmente ella las fríe."
   },
   "huevos-rellenos": {
    "hero": 1,
@@ -114,7 +117,8 @@
     "PXL_20260923_114206624.MP.jpg",
     "PXL_20260923_114323924.MP.jpg",
     "PXL_20260923_114349364.MP.jpg"
-   ]
+   ],
+   "mesa": 4
   },
   "calamares": {
    "hero": 7,
@@ -181,7 +185,7 @@
    ]
   },
   "lengua": {
-   "hero": 11,
+   "hero": 12,
    "withPeople": [
     3,
     4,
@@ -202,7 +206,8 @@
     "IMG20261118115440.jpg",
     "PXL_20261118_123211376.jpg",
     "PXL_20261118_123355970.MP.jpg"
-   ]
+   ],
+   "mesa": 12
   },
   "muslos-de-pollo": {
    "hero": 3,
@@ -218,6 +223,9 @@
   "croquetas": [
    "Salen unas 65 a 75 croquetas",
    "Dos días: masa y fritura"
+  ],
+  "lengua": [
+   "6 lenguas"
   ]
  }
 }

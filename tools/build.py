@@ -77,6 +77,10 @@ for r in recipes:
         r["hero"], r["hero_is_photo"] = f"img/{r['slug']}/{hero:02d}.jpg", True
     else:
         r["hero"], r["hero_is_photo"] = r["pages_html"][0]["src"], False
+    entry = fotos["photos"].get(r["slug"], {})
+    r["hero_caption"] = entry.get("heroCaption", "")
+    mesa = entry.get("mesa")
+    r["mesa"] = f"img/{r['slug']}/{mesa:02d}.jpg" if mesa and f"{mesa:02d}.jpg" in r["photos"] else ""
 
     steps, n = [], 0
     r["groups_html"] = []

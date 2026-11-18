@@ -161,6 +161,7 @@ Al día siguiente:
 4. Machacar en el mortero 2 dientes de ajo y perejil, ponerle 600 ml de agua, laurel y media pastilla de Starlux, y a hervir. Por último, las albóndigas se cocinan un rato en la salsa; el tiempo no es fijo (Raul).
 **Notas de mamá**
 - «Colar el aceite» antes de hacer la salsa (nota al margen).
+- Siempre hace de más para que sobren, y siempre nos las da para llevar (lo cuenta Raul).
 **Avisos**
 - La receta termina en «a hervir (y Starlux) 1/2». El paso final lo añade Raul: al final las albóndigas se cocinan un rato en la salsa, y el tiempo no es fijo.
 - «1/2» es media pastilla de Starlux, que va en el agua de la salsa (Raul). La lista de ingredientes decía 1 pastilla.
@@ -272,9 +273,9 @@ Tiempo de cocción: tres cuartos de hora.
 > se laban y se ponen en olla a presión, con agua y sal, que queden cubiertas de agua, poner una [palabra tachada] oja de laurel y un troso de cebolla y 2 dientes de ajo dejarlas cocer de 35 minut. cuando se enfrien se sacan y se pelan, luego cuando esten bien limpias se cortan, y se prepara la salsa.
 > se pone una cazuela con aceite, se pica un poco de cebolla bien menuda y ajos dos, se reoga bien que se dore un poco con una cucharada de harina y pimenton, y 2 guindillas partidas, y se echa el agua de cocerlas, cuando este cociendo se deja de dies a 15 m. de pende como esten de cocidas
 ### B. Versión editada
-**Lengua de cerdo guisada**, [POR CONFIRMAR: en el título pone «(6)», ¿6 lenguas o 6 personas?]
+**Lengua de cerdo guisada** (6 lenguas)
 **Ingredientes**
-- Lenguas de cerdo [POR CONFIRMAR: «(6)»]
+- 6 lenguas de cerdo
 - Agua y sal, que queden cubiertas
 - 1 hoja de laurel
 - Un trozo de cebolla
@@ -294,12 +295,12 @@ Tiempo de cocción: tres cuartos de hora.
 5. Luego, cuando estén bien limpias, se cortan, y se prepara la salsa.
 6. Se pone una cazuela con aceite. Se pica un poco de cebolla bien menuda y dos ajos.
 7. Se rehoga bien, que se dore un poco, con una cucharada de harina y pimentón, y 2 guindillas partidas.
-8. Y se echa el agua de cocerlas [POR CONFIRMAR: ¿toda o una parte?].
+8. Y se echa el agua de cocerlas, prácticamente toda si cabe, y con ella los trozos de lengua (Raul).
 9. Cuando esté cociendo, se deja de diez a 15 minutos; depende de cómo estén de cocidas.
 **Avisos**
-- El cuaderno no dice cuándo se echan los trozos de lengua a la salsa. En las fotos ya están dentro mientras cuece.
+- Resuelto por Raul (18 nov 2026): son 6 lenguas; el agua de cocerlas se echa prácticamente toda, si cabe; y los trozos de lengua van a la salsa a la vez que el agua.
 - No da cantidad de aceite ni de pimentón.
-- No dice para cuántas personas, salvo que el «(6)» lo indique.
+- No dice para cuántas personas (el «(6)» del título son las lenguas).
 **Fuente**: «Lengua de cerdo.pdf» (2 hojas), en la carpeta «fotos recetas/Lengua de cerdo guisada», con 14 fotos del 17 y 18 de noviembre de 2026.
 ## Croquetas de cocido
 ### A. Transcripción fiel (págs. 13–14)
